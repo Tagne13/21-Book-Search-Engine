@@ -34,7 +34,7 @@
     
   ## [Contributing](#table-of-contents)
 
-  N/A
+  [Starter code](https://github.com/coding-boot-camp/cautious-meme) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus))
 
   ## [Tests](#table-of-contents)
 
